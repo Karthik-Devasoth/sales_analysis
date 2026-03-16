@@ -42,6 +42,16 @@ After running, the script saves these charts as PNG files:
 - `outputs/fig3_profitability.png`
 - `outputs/fig4_pie_charts.png`
 
+#### Preview
+
+![Executive Dashboard](outputs/fig1_executive_dashboard.png)
+
+![Segment & Channel](outputs/fig2_segment_channel.png)
+
+![Profitability](outputs/fig3_profitability.png)
+
+![Pie Charts](outputs/fig4_pie_charts.png)
+
 You can open them directly in your file explorer or any image viewer.
 
 ## GitHub Push
